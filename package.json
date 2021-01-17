@@ -1,0 +1,16 @@
+{
+  "name": "JSClock",
+  "version": "1.0.0",
+  "description": "A Seven segment clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.0",
+    "electron-packager": "^15.2.0"
+  }
+}
